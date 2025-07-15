@@ -1,2 +1,2 @@
 # Gidney-adder
-The quantum adder in Gidney (2018)
+The quantum adder from Gidney (2018), in Qiskit.
