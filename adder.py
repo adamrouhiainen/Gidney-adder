@@ -3,7 +3,6 @@ from qiskit import ClassicalRegister, QuantumCircuit, QuantumRegister
 
 def logical_and():
     qc = QuantumCircuit(3, name='AND')
-    qc = QuantumCircuit(3, name='AND')
 
     qc.h(2)
     qc.t(2)
